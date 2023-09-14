@@ -1,0 +1,86 @@
+.menu {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    height: 100px;
+    width: auto;
+    background-color: black;
+}
+.menubuttons {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    height: 100px;
+    width: auto;
+    background-color: black;
+}
+body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background-color: aliceblue;
+}
+html {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background-color: aliceblue;
+}
+.Home {
+    display: inline-block;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    margin-left: 20%;
+    height: 100px;
+    width: auto;
+    list-style-type: none;
+}
+.WhoAmI {
+    display: inline-block;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    margin-left: 20%;
+    height: 100px;
+    width: auto;
+    list-style-type: none;
+}
+.WhyVoteMe {
+    display: inline-block;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    margin-left: 20%;
+    height: 100px;
+    width: auto;
+    list-style-type: none;
+}
+
+.HomeA {
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    height: auto;
+    width: auto;
+    padding-top: 40px;
+}
+.WhoAmIA {
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    height: auto;
+    width: auto;
+    padding-top: 40px;
+}
+.WhyVoteMeA {
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    height: auto;
+    width: auto;
+    padding-top: 40px;
+}

@@ -28,7 +28,7 @@ html {
 }
 .Home {
     display: inline-block;
-    color: white;
+    color: rgb(255, 0, 0);
     font-family: 'Montserrat', sans-serif;
     text-decoration: none;
     margin-left: 20%;

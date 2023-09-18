@@ -142,3 +142,10 @@ html {
 .slogandiv {
     text-align: center;
 }
+.watermark {
+    display: block;
+    float: right;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-size: small;
+}

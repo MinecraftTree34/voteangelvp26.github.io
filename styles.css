@@ -71,6 +71,7 @@ html {
     width: auto;
     padding-top: 40px;
     padding-bottom: 40px;
+    font-size: 24px;
 }
 #home {
     width: 140.84px;
@@ -87,6 +88,7 @@ html {
     text-align: center;
     width: 100%;
     font-size: 50px;
+    color: white;
 }
 .future {
     font-family: 'Montserrat', sans-serif;
@@ -96,6 +98,7 @@ html {
     text-decoration: underline;
     margin-top: 0;
     font-size: 80px;
+    color: white;
 }
 .online {
     display: block;
@@ -148,4 +151,20 @@ html {
     font-family: 'Montserrat', sans-serif;
     color: white;
     font-size: 5px;
+}
+.qnadiv {
+margin: 5%;
+}
+.question {
+    font-size: 32px;
+    float: left;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+.answer {
+    display: block;
+    font-size: medium;
+    float: left;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
 }

@@ -153,9 +153,10 @@ html {
     font-size: 5px;
 }
 .qnadiv {
-margin: 5%;
+    margin: 5%;
 }
 .question {
+    display: block;
     font-size: 32px;
     float: left;
     font-family: 'Montserrat', sans-serif;
@@ -167,4 +168,11 @@ margin: 5%;
     float: left;
     font-family: 'Montserrat', sans-serif;
     color: white;
+}
+#testimonials {
+    float: left;
+    margin: 15px;
+}
+.testies {
+    text-decoration: none;
 }
